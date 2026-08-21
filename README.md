@@ -1,4 +1,4 @@
-# ESP32 DeskDog ROM（for micro tft lcd)
+# ESP32 DeskDog ROM（for Micro TFT LCD)
 
 ESP32 DeskDog ROM is a customized ESP32 firmware project based on the open-source [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) project.
 It preserves the original AI voice interaction, TTS playback, and emotional expression features while adding **real-time AI response subtitles** to a 0.96-inch 160×80 TFT display.
